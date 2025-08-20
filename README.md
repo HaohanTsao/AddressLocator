@@ -9,7 +9,7 @@
 ## 🚀 如何使用
 以下網址使用： 
 
-[Link](https://HaohanTsao.github.io/AddressLocator/)
+[Link](https://HaohanTsao.github.io/AddressLocator/main)
 
 ## 🛠️ 使用工具
 
